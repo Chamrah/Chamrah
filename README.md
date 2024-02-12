@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1 align="center">
-        <img style="width: 90%; height:30%;" src="https://ik.imagekit.io/dfw3q47dv0/the_power_of_dark_side_fPLL-vX6C.gif" />
+        <img style="width: 100%; height:30%;" src="https://ik.imagekit.io/dfw3q47dv0/the_power_of_dark_side_fPLL-vX6C.gif" />
     </h1>
 
     <h1 align="center">Hey 👋, I'm Ziad!</h1>
