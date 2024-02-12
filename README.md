@@ -11,7 +11,9 @@
     </h1>
 
     <h3 title="hehehe"> Hey 👋, I'm Ziad</h3>
-    <p align="center" style="padding-left: 10%;">Hi ,welcome to my profile, it's me Ziad Chamrah from Morocco, i'm a computer science student</p>
+<p align="center" style="padding-left: 10%;">Hi ,welcome to my profile, it's me Ziad Chamrah from Morocco, i'm a computer science 
+       student
+</p>
   <div class="row">
     <div class="col-6" style="padding-left: 10%;">
        <h2>About Me!</h2>
