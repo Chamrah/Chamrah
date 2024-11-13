@@ -23,7 +23,7 @@
 
 - 👨🏽‍💻 I am a student at Isgi Marrakech.
           <br>
-- 🌱 I am currently learning JavaScript,SQL
+- 🌱 I am currently learning React
           <br>
 - 📫 Email me at <a href="mailto:ziadchamrah20@gmail.com" >ziadchamrah20@gmail.com</a>
 
